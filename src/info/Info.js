@@ -83,8 +83,8 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Portfolio",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://portfolio-pink-sigma-74.vercel.app/",
+            source: "https://github.com/NirupanJoe/portfolio",
             image: mock1
         },
         {
