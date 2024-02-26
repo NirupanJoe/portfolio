@@ -60,8 +60,8 @@ export const info = {
     bio: "Hello! I'm Nirupan. I'm a Software Developer. I studied MCA at st.xavier's college, I enjoy long walks on the beach, and I enjoy playing sports in person, but the world is dominated by online games.",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3'],
-            exposedTo: ['nodejs', 'python']
+            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'material-ui', 'react-spring'],
+            exposedTo: ['nodejs', 'python', 'expo', 'three.js', 'react-three-fiber', 'd3.js', 'vega-lite']
         }
     ,
     hobbies: [
