@@ -2,6 +2,7 @@ import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
 import mock5 from "../img/mock5.png"
+import mock6 from "../img/mock6.png"
 
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
@@ -89,7 +90,7 @@ export const info = {
         },
         {
             title: "Analog and Digital clock",
-            live: "#",
+            live: "https://clock-nirupanjoe.vercel.app/",
             source: "https://github.com/NirupanJoe/Clock",
             image: mock2
         },
@@ -98,6 +99,12 @@ export const info = {
             live: "https://nirupanjoe.github.io/Asthika-Dharma/",
             source: "https://github.com/NirupanJoe/Asthika-Dharma",
             image: mock5
+        },
+        {
+            title: "Tech Store",
+            live: "https://tech-store-nirupanjoes-projects.vercel.app/",
+            source: "https://github.com/NirupanJoe/tech-store",
+            image: mock6
         }
     ]
 }
