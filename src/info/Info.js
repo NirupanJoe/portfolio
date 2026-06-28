@@ -35,16 +35,6 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://www.facebook.com/hks.sj",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
-        },
-        {
-            link: "https://www.instagram.com/nirupan__02/",
-            icon: 'fa fa-instagram',
-            label: 'instagram'
-        },
-        {
             link: "https://github.com/NirupanJoe",
             icon: "fa fa-github",
             label: 'github'
@@ -53,6 +43,12 @@ export const info = {
             link: "https://www.linkedin.com/in/nirupan-joe-7393b3146/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
+        },
+        {
+
+            link: "mailto:nirupanjoej@gmail.com",
+            icon: "fa fa-envelope",
+            label: "Email"
         }
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
@@ -83,6 +79,12 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
+            title: "Tech Store",
+            live: "https://tech-store-nirupanjoes-projects.vercel.app/",
+            source: "https://github.com/NirupanJoe/tech-store",
+            image: mock6
+        },
+        {
             title: "Portfolio",
             live: "https://portfolio-pink-sigma-74.vercel.app/",
             source: "https://github.com/NirupanJoe/portfolio",
@@ -100,11 +102,5 @@ export const info = {
             source: "https://github.com/NirupanJoe/Asthika-Dharma",
             image: mock5
         },
-        {
-            title: "Tech Store",
-            live: "https://tech-store-nirupanjoes-projects.vercel.app/",
-            source: "https://github.com/NirupanJoe/tech-store",
-            image: mock6
-        }
     ]
 }
